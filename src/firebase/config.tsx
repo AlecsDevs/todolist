@@ -11,6 +11,7 @@ import { getDatabase } from "firebase/database";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
+
   apiKey: "AIzaSyBoSPj1fd2-EvbX70cWv5fxQarBdt8k0HQ",
   authDomain: "todolist-4c316.firebaseapp.com",
   databaseURL: "https://todolist-4c316-default-rtdb.firebaseio.com", // Make sure this is correct
